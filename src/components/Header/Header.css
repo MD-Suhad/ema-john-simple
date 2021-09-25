@@ -1,0 +1,31 @@
+.header{
+   text-align: center;
+   border: 1px solid rgb(102, 4, 4);
+
+}
+
+.header img{
+   height:50px;
+   padding-bottom: 20px;
+}
+.header nav a{
+   text-decoration:none;
+   margin: 2px;
+   margin-left: 0;
+   padding-top:0px;
+   color: rgb(235, 215, 215);
+   padding: 10px;
+   
+}
+
+.header  a:hover{
+   color:rgb(187, 170, 170);
+   background-color:rgb(226, 231, 233);
+    margin: 5px;
+   border-radius: 3px;
+}
+.nav-tag{
+   text-align: left;
+   background-color:black;
+   padding: 20px;
+}
